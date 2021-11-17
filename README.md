@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+ - :floppy_disk: I'm studying at AGH University of Science and Technology
+ - :sunglasses: I'm currently working on a project called DarioBot 
 
 <!--
 **KrzysztofGG/KrzysztofGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

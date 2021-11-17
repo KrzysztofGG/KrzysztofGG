@@ -2,8 +2,8 @@
 
  - :floppy_disk: I'm studying at AGH University of Science and Technology
  - :sunglasses: I'm currently working on a project called DarioBot 
-![DarioBot](dario.jpg)
-jakies glupoty essssa
+<img src="dario.jpg" alt="dario" width="400"/>
+
 
  
 

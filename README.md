@@ -1,7 +1,7 @@
 ### Hello there 👋
 
  - :floppy_disk: I'm studying at AGH University of Science and Technology
- - :sunglasses: I'm currently working on a project called DarioBot 
+ - 😎 I'm currently working on a project called DarioBot 
 <img src="dario.jpg" alt="dario" width="400"/>
 
 

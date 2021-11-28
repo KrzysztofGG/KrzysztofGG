@@ -2,6 +2,7 @@
 
  - :floppy_disk: I'm studying at AGH University of Science and Technology
  - 😎 I'm currently working on a project called DarioBot 
+ - [**A cool forked repository**](https://github.com/KrzysztofGG/models.git)
  - [**MY HOME PAGE**](https://krzysztofgg.github.io/)
 <img src="dario.jpg" alt="dario" width="400"/>
 

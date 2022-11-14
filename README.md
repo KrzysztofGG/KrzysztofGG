@@ -3,12 +3,9 @@
  - :floppy_disk: I'm studying at AGH University of Science and Technology
  - 😎 I'm currently working on a few java projects a
  - 📗 Cureently studying basics of Machine Learning 
- - [**Recommended repo**](https://github.com/KrzysztofGG/models.git)
- - [**MY HOME PAGE**](https://krzysztofgg.github.io/)
 
 
 
- 
 
 <!--
 **KrzysztofGG/KrzysztofGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 <HL>
  
  - :floppy_disk: I'm studying at AGH University of Science and Technology
- - 😎 I'm currently working on a few java projects a
+ - 😎 I'm currently working on a few java projects 
  - 📗 Cureently studying basics of Machine Learning 
 
 
